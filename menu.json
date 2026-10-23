@@ -4,7 +4,7 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://raw.githubusercontent.com/YOUR-USERNAME/msx/refs/heads/main/videos.json"
+            "data": "https://raw.githubusercontent.com/leonaer09/msx/refs/heads/main/videos.json"
         }
     ]
 }
