@@ -1,0 +1,10 @@
+{
+    "headline": "My MSX",
+    "menu": [
+        {
+            "icon": "movie",
+            "label": "Videos",
+            "data": "https://raw.githubusercontent.com/YOUR-USERNAME/msx/refs/heads/main/videos.json"
+        }
+    ]
+}
