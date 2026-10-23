@@ -1,27 +1,84 @@
 {
     "type": "pages",
-    "headline": "Videos",
+    "headline": "Announcements",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
+        "layout": "0,0,3,2",
+        "imageFiller": "cover",
         "color": "msx-glass"
     },
     "items": [
         {
-            "title": "Sample Video 1",
-            "playerLabel": "Sample Video 1",
-            "action": "video:http://msx.benzac.de/media/video1.mp4"
+            "title": "A01",
+            "image": "https://leonaer09.github.io/msx/thumbs/A01.jpg",
+            "playerLabel": "A01",
+            "action": "video:https://leonaer09.github.io/msx/videos/A01.mp4"
         },
         {
-            "title": "Sample Video 2",
-            "playerLabel": "Sample Video 2",
-            "action": "video:http://msx.benzac.de/media/video2.mp4"
+            "title": "A02",
+            "image": "https://leonaer09.github.io/msx/thumbs/A02.jpg",
+            "playerLabel": "A02",
+            "action": "video:https://leonaer09.github.io/msx/videos/A02.mp4"
         },
         {
-            "title": "Sample Video 3",
-            "playerLabel": "Sample Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "title": "A03",
+            "image": "https://leonaer09.github.io/msx/thumbs/A03.jpg",
+            "playerLabel": "A03",
+            "action": "video:https://leonaer09.github.io/msx/videos/A03.mp4"
+        },
+        {
+            "title": "A04",
+            "image": "https://leonaer09.github.io/msx/thumbs/A04.jpg",
+            "playerLabel": "A04",
+            "action": "video:https://leonaer09.github.io/msx/videos/A04.mp4"
+        },
+        {
+            "title": "A05",
+            "image": "https://leonaer09.github.io/msx/thumbs/A05.jpg",
+            "playerLabel": "A05",
+            "action": "video:https://leonaer09.github.io/msx/videos/A05.mp4"
+        },
+        {
+            "title": "A06",
+            "image": "https://leonaer09.github.io/msx/thumbs/A06.jpg",
+            "playerLabel": "A06",
+            "action": "video:https://leonaer09.github.io/msx/videos/A06.mp4"
+        },
+        {
+            "title": "A07",
+            "image": "https://leonaer09.github.io/msx/thumbs/A07.jpg",
+            "playerLabel": "A07",
+            "action": "video:https://leonaer09.github.io/msx/videos/A07.mp4"
+        },
+        {
+            "title": "A08",
+            "image": "https://leonaer09.github.io/msx/thumbs/A08.jpg",
+            "playerLabel": "A08",
+            "action": "video:https://leonaer09.github.io/msx/videos/A08.mp4"
+        },
+        {
+            "title": "A09",
+            "image": "https://leonaer09.github.io/msx/thumbs/A09.jpg",
+            "playerLabel": "A09",
+            "action": "video:https://leonaer09.github.io/msx/videos/A09.mp4"
+        },
+        {
+            "title": "A10",
+            "image": "https://leonaer09.github.io/msx/thumbs/A10.jpg",
+            "playerLabel": "A10",
+            "action": "video:https://leonaer09.github.io/msx/videos/A10.mp4"
+        },
+        {
+            "title": "A11",
+            "image": "https://leonaer09.github.io/msx/thumbs/A11.jpg",
+            "playerLabel": "A11",
+            "action": "video:https://leonaer09.github.io/msx/videos/A11.mp4"
+        },
+        {
+            "title": "A12",
+            "image": "https://leonaer09.github.io/msx/thumbs/A12.jpg",
+            "playerLabel": "A12",
+            "action": "video:https://leonaer09.github.io/msx/videos/A12.mp4"
         }
     ]
 }

@@ -2,8 +2,8 @@
     "headline": "My MSX",
     "menu": [
         {
-            "icon": "movie",
-            "label": "Videos",
+            "icon": "campaign",
+            "label": "Announcements",
             "data": "https://raw.githubusercontent.com/leonaer09/msx/refs/heads/main/videos.json"
         }
     ]
